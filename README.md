@@ -5,6 +5,8 @@ contracts ❤️
 
 <img width="630" height="362" src="images/add_output.gif" style="border: 1px solid silver;border-radius: 5px;">
 
+[<img alt="Try now!" width="260" height="65" src="images/try_now.png">](https://app.apiprojector.com/)
+
 # Features
 
 ## Link API to app design
