@@ -7,6 +7,8 @@ contracts ❤️
 
 [<img alt="Try now!" width="260" height="65" src="images/try_now.png">](https://app.apiprojector.com/)
 
+See more information about product on [our landing](https://apiprojector.com/)
+
 # Features
 
 ## Link API to app design
@@ -38,8 +40,6 @@ security issues, etc. in two clicks.
 <img width="500" height="373" src="images/feature_test.webp">
 
 Yes, it is an open source ❤️
-
-See more information about product on [our landing](https://apiprojector.com/)
 
 # How to deploy
 
