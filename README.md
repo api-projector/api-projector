@@ -3,7 +3,7 @@
 Get full power of [Spec-First](https://oai.github.io/Documentation/specification.html) approach in your team for API
 contracts ❤️
 
-<img width="630" height="362" src="https://drive.google.com/uc?export=view&id=1JrrtYc5Yn_CpxntsvPhz7IcCv6N9yxGk" style="border: 1px solid silver;border-radius: 5px;">
+<img width="630" height="362" src="images/add_output.gif" style="border: 1px solid silver;border-radius: 5px;">
 
 # Features
 
@@ -12,28 +12,28 @@ contracts ❤️
 Who is needed a data from your API? Right, for UI. Save time of your back-end developers, allow make a drafts API by
 front-end developers based on UI. Upload UI screens from Figma, link API requests and data scheme in visual mode.
 
-<img width="500" height="373" src="https://drive.google.com/uc?export=view&id=1kodBgj4vO9ySATI5kRzlWct0bl1sz4TB">
+<img width="500" height="373" src="images/feature_link_api.webp">
 
 ## Collaborate front-end & back-end teams
 
 Send API contracts for discussing and approving to the back-end. Discuss, fix, approve before coding and start working
 in parallel on front-end and back-end!
 
-<img width="500" height="373" src="https://drive.google.com/uc?export=view&id=1LfUOuQLe3EzRfbSLvEn8HrmlQQOrizue">
+<img width="500" height="373" src="images/feature_collaborate.webp">
 
 ## Validate API contracts on real server
 
 Check API contracts after implementing on real server. Get notification when contract is broken or changed. Save time
 for finding bugs! Front-end & back-end are synced.
 
-<img width="500" height="373" src="https://drive.google.com/uc?export=view&id=1l9iN75gwp2bHEE-g4yD3pRaqO27oWB1x">
+<img width="500" height="373" src="images/feature_validate.webp">
 
 ## Run API auto tests in two clicks
 
 Improve your API contracts and find narrow places in your server. Generate & run automated tests for data scheme,
 security issues, etc. in two clicks.
 
-<img width="500" height="373" src="https://drive.google.com/uc?export=view&id=11NLOfyhfV4ueRM6BQyE-g-E8rGsPfSPb">
+<img width="500" height="373" src="images/feature_test.webp">
 
 Yes, it is an open source ❤️
 
