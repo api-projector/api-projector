@@ -1,9 +1,11 @@
+<img width="320" height="85" src="images/logo.png">
+
 # Visual 🥳 Swagger Editor for Teams
 
 Get full power of [Spec-First](https://oai.github.io/Documentation/specification.html) approach in your team for API
 contracts ❤️
 
-<img width="630" height="362" src="images/add_output.gif" style="border: 1px solid silver;border-radius: 5px;">
+<img width="630" height="362" src="images/add_output.gif">
 
 [<img alt="Try now!" width="260" height="65" src="images/try_now.png">](https://app.apiprojector.com/)
 
