@@ -60,4 +60,4 @@ Vote for our project 👇
 
 Comment our articles on Habr:
 * [I am frontend developer, not a monkey](https://habr.com/ru/post/599127/)  | 02.01.2022 [breslavsky](https://github.com/breslavsky) 3.2k views
-* [Bugs on Habr or 500 it is ok](https://habr.com/ru/post/647957/)  | 26.01.2022 [breslavsky](https://github.com/breslavsky) 33k views
+* [Bugs on Habr or 500 it is ok?](https://habr.com/ru/post/647957/)  | 26.01.2022 [breslavsky](https://github.com/breslavsky) 33k views
