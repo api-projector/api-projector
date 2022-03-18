@@ -45,7 +45,8 @@ Yes, it is an open source ❤️
 
 # How to deploy
 
-Coming soon, check https://github.com/api-projector/api-projector/issues/2
+You can deploy using:
+- [docker-compose](https://github.com/api-projector/deploy/wiki/docker-compose)
 
 # How to collaborate
 
